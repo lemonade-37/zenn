@@ -18,8 +18,8 @@ Ruby on Railsでアプリ開発中に出会うエラー画面の基本の読み�
 　
 ## エラー画面の見方　例①NoMethodError
 エラー画面の項目を、上から順に意味を確認していきます。
-　　
-![6c5c3b7e63d012d172f585deeee8bd19.jpeg](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3471604/8a1c7c9e-1f75-92a8-27c0-004a9ec079c1.jpeg)
+
+![](/images/rails-error-study/no-method-error.png)
 　
 #### エラータイトル
 `NoMethodError in StudyTimesController#create`
@@ -100,8 +100,8 @@ end
 　
 ## エラー画面の見方　例②Routing Error
 Routesなどの、例①では表示されていなかった項目もあるため、もう1つ別のエラー例も見てみます。
-　　
-![2bdd77c1493742a3e7909c67cb1bab57.jpeg](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3471604/7dc0bbb9-62b4-4fff-1a1f-b877d6718991.jpeg)
+
+![](/images/rails-error-study/routing-error.png)
 　
 #### エラータイトル
 `Routing Error`
