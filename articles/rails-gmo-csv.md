@@ -1,6 +1,6 @@
 ---
 title: "【Rails】GMOあおぞらネット銀行指定形式CSVエクスポートの実装"
-emoji: "📄"
+emoji: "🏦"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Ruby", "Rails", "CSV"]
 published: true
