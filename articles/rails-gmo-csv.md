@@ -4,7 +4,7 @@ emoji: "🏦"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Ruby", "Rails", "CSV"]
 published: true
-published_at: 2024-03-31 12:00
+published_at: 2024-04-04 12:00
 ---
 ## 自己紹介
 はじめまして、はる（[@lemonade_37](https://twitter.com/lemonade_37)）と申します。
