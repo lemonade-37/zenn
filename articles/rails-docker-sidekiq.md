@@ -7,7 +7,7 @@ published: true
 published_at: 2024-03-31 12:00
 ---
 ## 自己紹介
-はじめまして、はる（[@lemonade_37](https://twitter.com/lemonade_37)）と申します。
+はじめまして、はると申します。
 駆け出しエンジニアとして働き始めて約1ヶ月が経過しました🐣
 
 ## 概要
