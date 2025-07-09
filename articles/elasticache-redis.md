@@ -1,8 +1,8 @@
 ---
-title: "ElastiCache（Redis）の必要性について勉強しながら検討した"
+title: "【Docker】ElastiCache（Redis）の必要性について勉強しながら検討した"
 emoji: "🗂️"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["Redis", "Sidekiq", "Docker", "ElastiCache"]
+topics: ["Redis", "Sidekiq", "Docker", "ElastiCache", "AWS"]
 published: true
 published_at: 2024-06-10 12:00
 ---
