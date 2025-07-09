@@ -1,5 +1,5 @@
 ---
-title: "ElastiCache（Redis）の必要性について勉強しながら検討した【Rails・Docker・Sidekiq】"
+title: "ElastiCache（Redis）の必要性について勉強しながら検討した"
 emoji: "🗂️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Redis", "Sidekiq", "Docker", "ElastiCache"]
