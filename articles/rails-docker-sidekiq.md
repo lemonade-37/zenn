@@ -15,7 +15,7 @@ RailsアプリにSidekiq(redis)を導入し、メールの自動送信の機能�
 この記事のために、メールを10分後に送信するだけのサンプルアプリを用意しました。
 完成形のコードはこちらです。
 
-https://github.com/satou-haruka-37/sidekiq_sample
+https://github.com/lemonade-37/sidekiq_sample
 
 ### 環境
 - Mac OS（Apple Silicon）
@@ -81,7 +81,7 @@ https://qiita.com/seiyatakahashi/items/cb9ae73e5ba3020f4a89#activejob%E3%82%92%E
 今回は、`gem 'letter_opener_web'`を使用し、ローカルのみでメール送信の動作を行えるようにしています。
 この時点でのコードについて確認したい方は以下を参照ください。
 
-https://github.com/satou-haruka-37/sidekiq_sample/tree/3af4a9a095d7c4f2f46c616ffb8ec366a40efc43
+https://github.com/lemonade-37/sidekiq_sample/tree/3af4a9a095d7c4f2f46c616ffb8ec366a40efc43
 
 ### Sidekiq・Redisの導入
 1. docker-compose.ymlにredisを追加します。

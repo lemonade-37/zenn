@@ -16,7 +16,7 @@ published_at: 2024-06-25 12:00
 実際に自分がデプロイまでしたアプリのコードはこちらです。
 Stimulusの練習のために作成したミニアプリです🍎
 
-https://github.com/satou-haruka-37/fruit_forest
+https://github.com/lemonade-37/fruit_forest
 
 ### 環境
 - Mac OS（Apple Silicon）

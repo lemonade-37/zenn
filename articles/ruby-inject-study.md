@@ -91,7 +91,7 @@ p array.inject{ |sum, n| sum + n }
 
 
 ## 実行例
-学習時に動かして試していたコードを添付します。[(Gist)](https://gist.github.com/satou-haruka-37/0f472ebce69270c3d54bda4241904303)
+学習時に動かして試していたコードを添付します。[(Gist)](https://gist.github.com/lemonade-37/0f472ebce69270c3d54bda4241904303)
 
 
 ```ruby:sample

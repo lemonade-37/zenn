@@ -45,7 +45,7 @@ $\tiny{命名のセンスが無いのは多めに見てください…！}$
 
 サンプルコードはこちらです。
 
-https://github.com/satou-haruka-37/csv_sample
+https://github.com/lemonade-37/csv_sample
 
 ### 1. コントローラーのアクション定義
 RubyのCSVライブラリを使用できるようにします。（追加後はRailsサーバーの再起動が必要です。）

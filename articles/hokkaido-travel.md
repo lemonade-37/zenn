@@ -22,7 +22,7 @@ published_at: 2024-01-31 12:00
 
 https://ezo-travel.com/
 
-https://github.com/satou-haruka-37/hokkaido_travel
+https://github.com/lemonade-37/hokkaido_travel
 
 # 使い方
 ### 1.北海道内のおすすめのスポットを探す機能
