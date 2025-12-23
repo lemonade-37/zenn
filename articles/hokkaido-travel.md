@@ -19,7 +19,7 @@ published_at: 2024-01-31 12:00
 　　
 **「えぞとらべる」**
 
-https://ezo-travel.com/
+https://hokkaido-travel.fly.dev/
 
 https://github.com/lemonade-37/hokkaido_travel
 
